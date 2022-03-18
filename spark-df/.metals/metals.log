@@ -1,0 +1,47 @@
+2022.03.17 22:32:41 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\sambo\Desktop\spark-df\.metals\lsp.trace.json or C:\Users\sambo\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.03.17 22:32:44 INFO  logging to file C:\Users\sambo\Desktop\spark-df\.metals\metals.log
+2022.03.17 22:32:44 INFO  Started: Metals version 0.11.2 in workspace 'C:\Users\sambo\Desktop\spark-df' for client Visual Studio Code 1.65.1.
+2022.03.17 22:32:44 INFO  Parse release: 11.0.11
+2022.03.17 22:32:53 INFO  time: initialize in 8.92s
+2022.03.17 22:32:56 WARN  Build server is not auto-connectable.
+2022.03.17 22:32:59 WARN  no build target for: C:\Users\sambo\Desktop\spark-df\src\main\scala\fr\data\spark\DataFrame.scala
+2022.03.17 22:32:59 WARN  no build target for: C:\Users\sambo\Downloads\DataFrame.scala
+2022.03.17 22:33:19 INFO  no build target found for C:\Users\sambo\Desktop\spark-df\src\main\scala\fr\data\spark\DataFrame.scala. Using presentation compiler with project's scala-library version: 3.1.1
+2022.03.17 22:33:26 INFO  time: code lens generation in 25s
+2022.03.17 22:33:26 INFO  time: code lens generation in 15s
+2022.03.17 22:34:44 WARN  no build target for: C:\Users\sambo\Desktop\spark-df\src\main\scala\fr\data\spark\DataFrame.scala
+mars 17, 2022 10:34:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 20
+mars 17, 2022 10:34:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 21
+mars 17, 2022 10:34:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 23
+mars 17, 2022 10:34:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 24
+mars 17, 2022 10:34:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 25
+2022.03.17 22:35:02 WARN  no build target for: C:\Users\sambo\Desktop\spark-df\src\main\scala\fr\data\spark\DataFrame.scala
+2022.03.17 22:35:04 WARN  no build target for: C:\Users\sambo\Desktop\spark-df\build.sbt
+2022.03.17 22:35:08 WARN  no build target for: C:\Users\sambo\Desktop\spark-df\src\main\scala\fr\data\spark\DataFrame.scala
+2022.03.17 22:35:22 WARN  no build target for: C:\Users\sambo\Desktop\spark-df\src\main\scala\fr\data\spark\DataFrame.scala
+2022.03.17 22:41:09 WARN  no build target for: C:\Users\sambo\Desktop\spark-df\build.sbt
+2022.03.17 22:41:11 WARN  no build target for: C:\Users\sambo\Desktop\spark-df\src\main\scala\fr\data\spark\DataFrame.scala
+2022.03.17 22:41:23 WARN  no build target for: C:\Users\sambo\Desktop\spark-df\src\main\scala\fr\data\spark\DataFrame.scala
+2022.03.17 22:41:48 WARN  no build target for: C:\Users\sambo\Desktop\spark-df\src\main\scala\fr\data\DataFrame.scala
+2022.03.17 22:42:05 WARN  no build target for: C:\Users\sambo\Desktop\spark-df\src\main\scala\fr\data\spark\DataFrame.scala
+mars 17, 2022 10:45:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 207
+2022.03.17 22:46:57 INFO  shutting down Metals
+2022.03.18 08:33:44 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\sambo\Desktop\spark-df\.metals\lsp.trace.json or C:\Users\sambo\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.03.18 08:33:47 INFO  logging to file C:\Users\sambo\Desktop\spark-df\.metals\metals.log
+2022.03.18 08:33:47 INFO  Started: Metals version 0.11.2 in workspace 'C:\Users\sambo\Desktop\spark-df' for client Visual Studio Code 1.65.2.
+2022.03.18 08:33:47 INFO  Parse release: 11.0.11
+2022.03.18 08:33:54 INFO  time: initialize in 7.26s
+2022.03.18 08:33:55 WARN  Build server is not auto-connectable.
+2022.03.18 08:33:56 INFO  skipping build import with status 'Requested'
+2022.03.18 08:33:58 WARN  no build target for: C:\Users\sambo\Desktop\spark-df\src\main\scala\fr\data\spark\DataFrame.scala
+2022.03.18 08:34:11 INFO  no build target found for C:\Users\sambo\Desktop\spark-df\src\main\scala\fr\data\spark\DataFrame.scala. Using presentation compiler with project's scala-library version: 3.1.1
+2022.03.18 08:39:50 WARN  no build target for: C:\Users\sambo\Desktop\spark-df\src\main\scala\fr\data\spark\DataFrame.scala
+2022.03.18 08:45:50 WARN  no build target for: C:\Users\sambo\Desktop\spark-df\src\main\scala\fr\data\spark\DataFrame.scala
+2022.03.18 08:48:08 WARN  no build target for: C:\Users\sambo\Desktop\spark-df\src\main\scala\fr\data\spark\DataFrame.scala
+2022.03.18 08:48:13 INFO  shutting down Metals
